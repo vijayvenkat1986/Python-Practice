@@ -6,7 +6,8 @@ print(tabbedString)
 
 print('The per shop owner said "No, No, \'e  \'s uh,....he\'s resting".')
 print("The pet shop owner said \"No, No, 'e  's uh,....he's resting\".")
-print("""The per shop owner said "No, No, 'e  's uh,....he's resting".""")
+print("""The per shop owner said "No, No, \
+'e  's uh,....he's resting".""")
 
 anotherSplitString  = """This String has been \
 split over \
@@ -15,6 +16,9 @@ across \
 different lines."""
 
 print(anotherSplitString)
+
+print("C:\\Users\\vijayvenkatesh\\notes.txt")
+print(r"C:\Users\text\notes.txt")
 
 
 
